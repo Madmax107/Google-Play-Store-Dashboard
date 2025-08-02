@@ -4,6 +4,8 @@
 This project is a **data visualization dashboard** built using **Power BI**, analyzing over **400,000+ Android apps** and more than **323+ billion installs** from the Google Play Store. The goal is to uncover actionable insights across various app categories, monetization strategies, user engagement, and technical specifications.
 
 ---
+![image alt](https://github.com/Madmax107/Google-Play-Store-Dashboard/blob/f55c66a6cb462de2811faa019797b6c5b0fc278f/Dashboard%20Images/ss1.png)
+
 
 ## 🚀 Project Highlights
 
